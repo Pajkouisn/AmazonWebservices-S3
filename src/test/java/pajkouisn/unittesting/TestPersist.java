@@ -7,7 +7,7 @@ import java.io.File;
 import org.junit.Test;
 
 import pajkouisn.Credentials.Keys.AWS;
-import pajkouisn.Utilities.AmazonWebservices.S3;
+import pajkouisn.utilities.amazonwebservices.S3;
 
 public class TestPersist 
 {
