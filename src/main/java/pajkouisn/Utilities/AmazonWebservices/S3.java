@@ -1,4 +1,4 @@
-package pajkouisn.Utilities.AmazonWebservices;
+package pajkouisn.utilities.amazonwebservices;
 
 import java.io.File;
 import java.io.IOException;

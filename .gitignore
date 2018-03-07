@@ -24,5 +24,5 @@ hs_err_pid*
 /.metadata/
 
 /src/main/java/pajkouisn/Credentials/Keys/
-/src/main/java/pajkouisn/Utilities/Strings/
+/src/main/java/pajkouisn/utilities/Strings/
 *.csv
